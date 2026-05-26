@@ -1,6 +1,6 @@
 ##This github repository contains code files for the manuscript 
-##"Global Sensitivity Analysis for Stochastic Models of Infectious Diseases: Investigating the Re-Emergence of Yellow Fever Virus in the Americas as a Case Study" 
-##by Nate Kornetzke and Helen J. Wearing
+##"Global Sensitivity Analysis for Stochastic Models of Infectious Diseases: Investigating the Re-Emergence of Yellow Fever Virus 
+##in the Americas as a Case Study" by Nate Kornetzke and Helen J. Wearing
 ##Global sensitivity analysis code is contained in the R scripts
 		-samples_for_simulation.R
 		-sampling_and_sobol.R
